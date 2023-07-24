@@ -1,6 +1,6 @@
 <h3 align="center">Software Engineer in ED&AI @Nike - Machine Learning Researcher - Mathematics Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nachatz&label=Profile%20views&color=0e75b6&style=flat" alt="nachatz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nachatz&label=Profile%20views&color=0e75b6&style=flat" alt="nachatz" /> </p>
 
 - 🔭 I’m currently working on [My AI Maker](https://github.com/nachatz/my-ai-maker)
 
