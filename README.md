@@ -1,4 +1,6 @@
-### Hi there 👋
+# Nikolas Achatz 👋
+[![LinkedIn]([https://your-linkedin-logo-url.png](https://media.licdn.com/dms/image/C5603AQFbUePI_2E0Cg/profile-displayphoto-shrink_400_400/0/1616816921606?e=1695859200&v=beta&t=7ZAXnYgPeT3tTLk39Bs0NBAEbnyc2B7oL4cPx8K45TU))]([https://www.linkedin.com/in/your-linkedin-profile-url](https://www.linkedin.com/in/nikolas-achatz-074973187/))
+
 
 <!--
 **nachatz/nachatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
