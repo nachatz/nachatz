@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [My AI Maker](https://github.com/nachatz/my-ai-maker)
 
-- 🌱 I’m currently learning **PySpark, PyTorch, GoTorch, & Concurrent Programming**
+- 🌱 I’m currently learning **PySpark, Delta Lake, GRPC Apis, PyTorch, GoTorch, & Concurrent Programming**
 
-- 👯 I’m looking to collaborate on **Open Source Machine Learning & Data Engineering**
+- 👯 I’m looking to collaborate on **Open Source Machine Learning & Data Engineering projects**
 
 - 💬 Ask me about **Graph Neural Networks & their applications in industry**
 
