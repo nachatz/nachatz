@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My AI Maker](https://github.com/nachatz/my-ai-maker)
 
-- 🌱 I’m currently learning **PySpark, Delta Lake, GRPC Apis, PyTorch, GoTorch, & Concurrent Programming**
+- 🌱 I’m currently learning **PySpark, Delta Lake, gRPC, PyTorch, GoTorch, & Concurrent Programming**
 
 - 👯 I’m looking to collaborate on **Open Source Machine Learning & Data Engineering projects**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikolas-achatz-074973187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolas-achatz-074973187/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikolas-achatz-074973187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolas-achatz-074973187/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
