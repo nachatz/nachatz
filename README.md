@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer in ED&AI @Nike - Machine Learning Researcher - Mathematics Enthusiast</h3>
+<h3 align="center">Software Engineer @Nike - Machine Learning Researcher @OSU - Mathematics Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nachatz&label=Profile%20views&color=0e75b6&style=flat" alt="nachatz" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Machine Learning & Data Engineering projects**
 
-- 💬 Ask me about **Graph Neural Networks & their applications in industry**
+- 💬 Ask me about **Graph Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
