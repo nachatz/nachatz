@@ -1,7 +1,5 @@
 <h3 align="center">Software Engineer @Nike - Machine Learning Researcher @OSU - Mathematics Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nachatz&label=Profile%20views&color=0e75b6&style=flat" alt="nachatz" /> </p>
-
 - 🔭 I’m currently working on [My AI Maker](https://github.com/nachatz/my-ai-maker)
 
 - 🌱 I’m currently learning **PySpark, Delta Lake, gRPC, PyTorch, GoTorch, & Concurrent Programming**
