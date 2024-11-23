@@ -1,10 +1,8 @@
-<h3 align="center">Software Engineer @Nike - Machine Learning Researcher @OSU - Mathematics Enthusiast</h3>
-
-- 🔭 I’m currently working on [My AI Maker](https://github.com/nachatz/my-ai-maker)
+<h3 align="center">Data Science Engineer @PrizePicks - Machine Learning Researcher @OSU - Mathematics Enthusiast</h3>
 
 - 🌱 I’m currently learning **PySpark, Delta Lake, gRPC, PyTorch, GoTorch, & Concurrent Programming**
 
-- 👯 I’m looking to collaborate on **Open Source Machine Learning & Data Engineering projects**
+- 👯 Previously @Nike & @TeachEngineering
 
 - 💬 Ask me about **Graph Neural Networks**
 
